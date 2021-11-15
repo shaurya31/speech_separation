@@ -16,7 +16,7 @@ The underlying repository was one of the models we implemented and the following
 ![True_Phase](screenshots/True_Phase.PNG)
 
 2.
-![Noise_Invariance](screenshots/True_Phase.PNG)
+![Noise_Invariance](screenshots/Noise_Invariance.PNG)
 
 3.
 ![Motion_Vector](screenshots/Motion_Vector.PNG)
