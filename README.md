@@ -6,13 +6,32 @@ The cocktail party effect is the phenomenon of the brain's ability to focus one'
 
 The following was done as part of the project:
 
-1. Literature Survey on the techniques used to solve this problem.
-2. Implementing 2 state-of-the-art models, running them and evaluating the results.
-3. Coming up with potential improvements in the models.
+1. Literature Survey on the techniques used to solve this problem ([Literature Survey](project_reports/Literature_Survey.pdf)).
+2. Implementing 2 state-of-the-art models, running them and evaluating the results ([Implementation_Details](project_reports/Implementation_Details.pdf)).
+3. Coming up with potential improvements in the models ([Proposed_Improvements](project_reports/Proposed_Improvements.pdf)).
 
-The underlying repository was one of the models we implemented. 
+The underlying repository was one of the models we implemented and the following potential improvements were tried on this model:
 
-Its documentation follows:
+1.
+![True_Phase](screenshots/True_Phase.PNG)
+
+2.
+![Noise_Invariance](screenshots/True_Phase.PNG)
+
+3.
+![Motion_Vector](screenshots/Motion_Vector.PNG)
+
+4.
+![NI_MV](screenshots/NI_MV.PNG)
+
+# Results and Conclusions
+
+![Results](screenshots/Results.PNG)
+
+![Conclusions](screenshots/Conclusions.PNG)
+
+----------------------------------------------------------------
+Documentation of the underlying repository:
 
 # Overview
 
