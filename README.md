@@ -1,5 +1,19 @@
 # speech_separation
 
+This was for a research project related to the Computer Vision and Machine Learning course I did during my B. Tech. The project was to research on the Cocktail Party Problem and how is Computer Vision used to solve it.
+
+The cocktail party effect is the phenomenon of the brain's ability to focus one's auditory attention on a particular stimulus while filtering out a range of other stimuli, such as when a partygoer can focus on a single conversation in a noisy room. So, the cocktail party problem involves separating speech signals of speakers by using their images while speaking.
+
+The following was done as part of the project:
+
+1. Literature Survey on the techniques used to solve this problem.
+2. Implementing 2 state-of-the-art models, running them and evaluating the results.
+3. Coming up with potential improvements in the models.
+
+The underlying repository was one of the models we implemented. 
+
+Its documentation follows:
+
 # Overview
 
 This is a project to improve the speech separation task. In this project, Audio-only and Audio-Visual deep learning separation models are modified based on the paper [Looking to Listen at the Cocktail Party](https://arxiv.org/abs/1804.03619)[1]. 
